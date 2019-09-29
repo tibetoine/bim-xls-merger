@@ -1,0 +1,19 @@
+{
+  "name": "bim-xls-merger",
+  "version": "1.0.0",
+  "description": "Tool to merge Xls files into one",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tibetoine/bim-xls-merger.git"
+  },
+  "author": "Antoine ROBERT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tibetoine/bim-xls-merger/issues"
+  },
+  "homepage": "https://github.com/tibetoine/bim-xls-merger#readme"
+}
