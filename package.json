@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/tibetoine/bim-xls-merger/issues"
   },
-  "homepage": "https://github.com/tibetoine/bim-xls-merger#readme"
+  "homepage": "https://github.com/tibetoine/bim-xls-merger#readme",
+  "dependencies": {
+    "exceljs": "^2.0.1"
+  }
 }
