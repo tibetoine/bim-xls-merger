@@ -1,10 +1,10 @@
 const Excel = require('exceljs');
 
 var workbookMatrice = new Excel.Workbook();
-workbookMatrice.xlsx.readFile('c:/dev/resources/matrice.xlsx')
+workbookMatrice.xlsx.readFile('./resources/matrice.xlsx')
   .then(function() {
     var workbookAbyl = new Excel.Workbook();
-    workbookAbyl.xlsx.readFile('c:/dev/resources/abyl.xlsx')
+    workbookAbyl.xlsx.readFile('./resources/abyl.xlsx')
     .then(function() {
         var worksheetMatrice = workbookMatrice.getWorksheet('C');
         worksheetMatrice.eachRow(function(row, rowNumber) {
