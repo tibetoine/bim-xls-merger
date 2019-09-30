@@ -11,7 +11,11 @@ workbookMatrice.xlsx.readFile('c:/dev/resources/matrice.xlsx')
             var codeLogement = getCodeLogement(row.getCell(5).value)
             // console.log (codeLogement + ' : ' + isCodeLogement(codeLogement))
             if (isCodeLogement(codeLogement)) {
-                // 1/ Je cherche 
+                // 1/ Je récupère le code pièce Abyl (ou les codes pièces Abyl) correspondant au code pièce Matrice
+                var pieceAbylArray = getPieceAbylAPartirDePieceMatrice('SDB')
+
+                // 2/ Je récupère le code composant Abyl (ou les codes composants Abyl) correspondant au code composant Matrice
+
             }
             // console.log('Row ' + rowNumber + ' = ' + JSON.stringify(row.values));
         });
@@ -59,5 +63,26 @@ workbookMatrice.xlsx.readFile('c:/dev/resources/matrice.xlsx')
    * @param {*} pieceMatrice 
    */
   function getPieceAbylAPartirDePieceMatrice(pieceMatrice){
-      return null
+    var jsonMap = {
+                    "SDB":["Bain et WC","Salle de bain","Salle d'eau et WC"],
+                    "CUI":["Cuisine_901"]
+    }  
+    var pieceAbylArray = jsonMap[pieceMatrice]
+    
+    return pieceAbylArray
+  }
+
+   /**
+   * Retourne un code Composant Abyl à partir d'un code composant Matrice
+   * Se base sur une table de correspondance (Voir doc pour savoir comment la faire : README.md)
+   * @param {*} composantMatrice 
+   */
+  function getComposantAbylAPartirDeComposantMatrice(composantMatrice){
+    var jsonMap = {
+                    "SDB":["Bain et WC","Salle de bain","Salle d'eau et WC"],
+                    "CUI":["Cuisine_901"]
+    }  
+    var composantsAbylArray = jsonMap[composantMatrice]
+    
+    return composantsAbylArray
   }
