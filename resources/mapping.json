@@ -1,0 +1,1286 @@
+{
+  "Bac à douche (0.80 x 0.80 m)": {
+    "composantAbylName": "Receveur de douche",
+    "Materiaux": {
+      "capture": "false",
+      "indiceMatrice": "",
+      "indiceAbyl": "",
+      "defaultValue": ""
+    },
+    "Marque": {
+      "capture": "false",
+      "indiceMatrice": "",
+      "indiceAbyl": "",
+      "defaultValue": ""
+    },
+    "Puissance": {
+      "capture": "false",
+      "indiceMatrice": "",
+      "indiceAbyl": "",
+      "defaultValue": ""
+    },
+    "Capacite - Dimensions": {
+      "capture": "true",
+      "indiceMatrice": "",
+      "indiceAbyl": "",
+      "defaultValue": "[BIMER]"
+    },
+    "Installateur": {
+      "capture": "false",
+      "indiceMatrice": "",
+      "indiceAbyl": "",
+      "defaultValue": ""
+    },
+    "Mise en service": {
+      "capture": "true",
+      "indiceMatrice": "",
+      "indiceAbyl": "",
+      "defaultValue": "[Date de livraison de l'immeuble]"
+    },
+
+    "Observations": {
+      "capture": "true",
+      "indiceMatrice": "",
+      "indiceAbyl": "",
+      "defaultValue": ""
+    }
+  },
+  "Baignoire (1.61 x 0.70 m)": {
+    "composantAbylName": "Baignoire",
+    "Materiaux": {
+      "capture": "false",
+      "indiceMatrice": "",
+      "indiceAbyl": "",
+      "defaultValue": ""
+    },
+    "Marque": {
+      "capture": "false",
+      "indiceMatrice": "",
+      "indiceAbyl": "",
+      "defaultValue": ""
+    },
+    "Puissance": {
+      "capture": "false",
+      "indiceMatrice": "",
+      "indiceAbyl": "",
+      "defaultValue": ""
+    },
+    "Capacite - Dimensions": {
+      "capture": "true",
+      "indiceMatrice": "",
+      "indiceAbyl": "",
+      "defaultValue": "[BIMER]"
+    },
+    "Installateur": {
+      "capture": "false",
+      "indiceMatrice": "",
+      "indiceAbyl": "",
+      "defaultValue": ""
+    },
+    "Mise en service": {
+      "capture": "true",
+      "indiceMatrice": "",
+      "indiceAbyl": "",
+      "defaultValue": "[Date de livraison de l'immeuble]"
+    },
+
+    "Observations": {
+      "capture": "true",
+      "indiceMatrice": "",
+      "indiceAbyl": "",
+      "defaultValue": ""
+    }
+  },
+  "Evier": {
+    "composantAbylName": "Evier",
+    "Materiaux": {
+      "capture": "false",
+      "indiceMatrice": "",
+      "indiceAbyl": "",
+      "defaultValue": ""
+    },
+    "Marque": {
+      "capture": "false",
+      "indiceMatrice": "",
+      "indiceAbyl": "",
+      "defaultValue": ""
+    },
+    "Puissance": {
+      "capture": "false",
+      "indiceMatrice": "",
+      "indiceAbyl": "",
+      "defaultValue": ""
+    },
+    "Capacite - Dimensions": {
+      "capture": "true",
+      "indiceMatrice": "",
+      "indiceAbyl": "",
+      "defaultValue": "[BIMER]"
+    },
+    "Installateur": {
+      "capture": "false",
+      "indiceMatrice": "",
+      "indiceAbyl": "",
+      "defaultValue": ""
+    },
+    "Mise en service": {
+      "capture": "true",
+      "indiceMatrice": "",
+      "indiceAbyl": "",
+      "defaultValue": "[Date de livraison de l'immeuble]"
+    },
+
+    "Observations": {
+      "capture": "true",
+      "indiceMatrice": "",
+      "indiceAbyl": "",
+      "defaultValue": ""
+    }
+  },
+  "Fenetre_1V (0.90 x 1.50m) VR": {
+    "composantAbylName": "Fenêtre",
+    "Materiaux": {
+      "capture": "true",
+      "indiceMatrice": "",
+      "indiceAbyl": "",
+      "defaultValue": ""
+    },
+    "Marque": {
+      "capture": "false",
+      "indiceMatrice": "",
+      "indiceAbyl": "",
+      "defaultValue": ""
+    },
+    "Puissance": {
+      "capture": "false",
+      "indiceMatrice": "",
+      "indiceAbyl": "",
+      "defaultValue": ""
+    },
+    "Capacite - Dimensions": {
+      "capture": "true",
+      "indiceMatrice": "",
+      "indiceAbyl": "",
+      "defaultValue": "[BIMER]"
+    },
+    "Installateur": {
+      "capture": "false",
+      "indiceMatrice": "",
+      "indiceAbyl": "",
+      "defaultValue": ""
+    },
+    "Mise en service": {
+      "capture": "true",
+      "indiceMatrice": "",
+      "indiceAbyl": "",
+      "defaultValue": "[Date de livraison de l'immeuble]"
+    },
+
+    "Observations": {
+      "capture": "true",
+      "indiceMatrice": "",
+      "indiceAbyl": "",
+      "defaultValue": ""
+    }
+  },
+  "Lavabo": {
+    "composantAbylName": "Lavabo",
+    "Materiaux": {
+		"capture": "false",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  },
+	  "Marque": {
+		"capture": "false",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  },
+	  "Puissance": {
+		"capture": "false",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  },
+	  "Capacite - Dimensions": {
+		"capture": "true",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": "[BIMER]"
+	  },
+	  "Installateur": {
+		"capture": "false",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  },
+	  "Mise en service": {
+		"capture": "true",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": "[Date de livraison de l'immeuble]"
+	  },
+  
+	  "Observations": {
+		"capture": "true",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  }
+  },
+  "Meuble sous evier": {
+    "composantAbylName": "Meuble sous évier",
+    "Materiaux": {
+		"capture": "false",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  },
+	  "Marque": {
+		"capture": "false",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  },
+	  "Puissance": {
+		"capture": "false",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  },
+	  "Capacite - Dimensions": {
+		"capture": "true",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": "[BIMER]"
+	  },
+	  "Installateur": {
+		"capture": "false",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  },
+	  "Mise en service": {
+		"capture": "true",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": "[Date de livraison de l'immeuble]"
+	  },
+  
+	  "Observations": {
+		"capture": "true",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  }
+  },
+  "Meuble sous lavabo": {
+    "composantAbylName": "Meuble sous évier",
+    "Materiaux": {
+		"capture": "false",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  },
+	  "Marque": {
+		"capture": "false",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  },
+	  "Puissance": {
+		"capture": "false",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  },
+	  "Capacite - Dimensions": {
+		"capture": "true",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": "[BIMER]"
+	  },
+	  "Installateur": {
+		"capture": "false",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  },
+	  "Mise en service": {
+		"capture": "true",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": "[Date de livraison de l'immeuble]"
+	  },
+  
+	  "Observations": {
+		"capture": "true",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  }
+  },
+  "Placard 2 panneaux (largeur totale 0.65m)": {
+    "composantAbylName": "",
+    "Materiaux": {
+		"capture": "false",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  },
+	  "Marque": {
+		"capture": "false",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  },
+	  "Puissance": {
+		"capture": "false",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  },
+	  "Capacite - Dimensions": {
+		"capture": "true",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": "[BIMER]"
+	  },
+	  "Installateur": {
+		"capture": "false",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  },
+	  "Mise en service": {
+		"capture": "true",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": "[Date de livraison de l'immeuble]"
+	  },
+  
+	  "Observations": {
+		"capture": "true",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  }
+  },
+  "Placard 2 panneaux (largeur totale 0.80m)": {
+    "composantAbylName": "",
+    "Materiaux": {
+		"capture": "false",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  },
+	  "Marque": {
+		"capture": "false",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  },
+	  "Puissance": {
+		"capture": "false",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  },
+	  "Capacite - Dimensions": {
+		"capture": "true",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": "[BIMER]"
+	  },
+	  "Installateur": {
+		"capture": "false",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  },
+	  "Mise en service": {
+		"capture": "true",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": "[Date de livraison de l'immeuble]"
+	  },
+  
+	  "Observations": {
+		"capture": "true",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  }
+  },
+  "Placard 2 panneaux (largeur totale 1.00m)": {
+    "composantAbylName": "",
+    "Materiaux": {
+		"capture": "false",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  },
+	  "Marque": {
+		"capture": "false",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  },
+	  "Puissance": {
+		"capture": "false",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  },
+	  "Capacite - Dimensions": {
+		"capture": "true",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": "[BIMER]"
+	  },
+	  "Installateur": {
+		"capture": "false",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  },
+	  "Mise en service": {
+		"capture": "true",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": "[Date de livraison de l'immeuble]"
+	  },
+  
+	  "Observations": {
+		"capture": "true",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  }
+  },
+  "Porte d'entree logement (0.90m x 2.15m)": {
+    "composantAbylName": "Porte d'entrée",
+    "Materiaux": {
+      "capture": "true",
+      "indiceMatrice": "",
+      "indiceAbyl": "",
+      "defaultValue": ""
+    },
+    "Marque": {
+      "capture": "false",
+      "indiceMatrice": "",
+      "indiceAbyl": "",
+      "defaultValue": ""
+    },
+    "Puissance": {
+      "capture": "false",
+      "indiceMatrice": "",
+      "indiceAbyl": "",
+      "defaultValue": ""
+    },
+    "Capacite - Dimensions": {
+      "capture": "true",
+      "indiceMatrice": "",
+      "indiceAbyl": "",
+      "defaultValue": "[BIMER]"
+    },
+    "Installateur": {
+      "capture": "false",
+      "indiceMatrice": "",
+      "indiceAbyl": "",
+      "defaultValue": ""
+    },
+    "Mise en service": {
+      "capture": "true",
+      "indiceMatrice": "",
+      "indiceAbyl": "",
+      "defaultValue": "[Date de livraison de l'immeuble]"
+    },
+    "Observations": {
+      "capture": "true",
+      "indiceMatrice": "",
+      "indiceAbyl": "",
+      "defaultValue": ""
+    }
+  },
+  "Porte Fenetre_1V (0.95 x 2.10m) VR": {
+    "composantAbylName": "Porte-fenêtre",
+    "Materiaux": {
+		"capture": "true",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  },
+	  "Marque": {
+		"capture": "false",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  },
+	  "Puissance": {
+		"capture": "false",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  },
+	  "Capacite - Dimensions": {
+		"capture": "true",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": "[BIMER]"
+	  },
+	  "Installateur": {
+		"capture": "false",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  },
+	  "Mise en service": {
+		"capture": "true",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": "[Date de livraison de l'immeuble]"
+	  },
+  
+	  "Observations": {
+		"capture": "true",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  }
+  },
+  "Porte Fenetre_3V (2.85 x 2.10m) VR": {
+    "composantAbylName": "Porte-fenêtre",
+    "Materiaux": {
+		"capture": "true",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  },
+	  "Marque": {
+		"capture": "false",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  },
+	  "Puissance": {
+		"capture": "false",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  },
+	  "Capacite - Dimensions": {
+		"capture": "true",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": "[BIMER]"
+	  },
+	  "Installateur": {
+		"capture": "false",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  },
+	  "Mise en service": {
+		"capture": "true",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": "[Date de livraison de l'immeuble]"
+	  },
+  
+	  "Observations": {
+		"capture": "true",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  }
+  },
+  "Porte Fenetre_4V (3.80 x 2.10m) VR": {
+    "composantAbylName": "Porte-fenêtre",
+    "Materiaux": {
+		"capture": "true",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  },
+	  "Marque": {
+		"capture": "false",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  },
+	  "Puissance": {
+		"capture": "false",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  },
+	  "Capacite - Dimensions": {
+		"capture": "true",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": "[BIMER]"
+	  },
+	  "Installateur": {
+		"capture": "false",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  },
+	  "Mise en service": {
+		"capture": "true",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": "[Date de livraison de l'immeuble]"
+	  },
+  
+	  "Observations": {
+		"capture": "true",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  }
+  },
+  "Portes interieures (0.40m x 2.10m)": {
+    "composantAbylName": "Porte",
+    "Materiaux": {
+		"capture": "false",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  },
+	  "Marque": {
+		"capture": "false",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  },
+	  "Puissance": {
+		"capture": "false",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  },
+	  "Capacite - Dimensions": {
+		"capture": "true",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": "[BIMER]"
+	  },
+	  "Installateur": {
+		"capture": "false",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  },
+	  "Mise en service": {
+		"capture": "true",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": "[Date de livraison de l'immeuble]"
+	  },
+  
+	  "Observations": {
+		"capture": "true",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  }
+  },
+  "Portes interieures (0.73m x 2.04m)": {
+    "composantAbylName": "Porte",
+    "Materiaux": {
+		"capture": "false",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  },
+	  "Marque": {
+		"capture": "false",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  },
+	  "Puissance": {
+		"capture": "false",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  },
+	  "Capacite - Dimensions": {
+		"capture": "true",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": "[BIMER]"
+	  },
+	  "Installateur": {
+		"capture": "false",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  },
+	  "Mise en service": {
+		"capture": "true",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": "[Date de livraison de l'immeuble]"
+	  },
+  
+	  "Observations": {
+		"capture": "true",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  }
+  },
+  "Portes interieures (0.83m x 2.10m)": {
+    "composantAbylName": "Porte",
+    "Materiaux": {
+		"capture": "false",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  },
+	  "Marque": {
+		"capture": "false",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  },
+	  "Puissance": {
+		"capture": "false",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  },
+	  "Capacite - Dimensions": {
+		"capture": "true",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": "[BIMER]"
+	  },
+	  "Installateur": {
+		"capture": "false",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  },
+	  "Mise en service": {
+		"capture": "true",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": "[Date de livraison de l'immeuble]"
+	  },
+  
+	  "Observations": {
+		"capture": "true",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  }
+  },
+  "Portes interieures doubles (0.70/0.32m x 2.04m)": {
+    "composantAbylName": "Porte",
+    "Materiaux": {
+		"capture": "false",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  },
+	  "Marque": {
+		"capture": "false",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  },
+	  "Puissance": {
+		"capture": "false",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  },
+	  "Capacite - Dimensions": {
+		"capture": "true",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": "[BIMER]"
+	  },
+	  "Installateur": {
+		"capture": "false",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  },
+	  "Mise en service": {
+		"capture": "true",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": "[Date de livraison de l'immeuble]"
+	  },
+  
+	  "Observations": {
+		"capture": "true",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  }
+  },
+  "Portes interieures doubles (0.83/0.32m x 2.10m)": {
+    "composantAbylName": "Porte",
+    "Materiaux": {
+		"capture": "false",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  },
+	  "Marque": {
+		"capture": "false",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  },
+	  "Puissance": {
+		"capture": "false",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  },
+	  "Capacite - Dimensions": {
+		"capture": "true",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": "[BIMER]"
+	  },
+	  "Installateur": {
+		"capture": "false",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  },
+	  "Mise en service": {
+		"capture": "true",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": "[Date de livraison de l'immeuble]"
+	  },
+  
+	  "Observations": {
+		"capture": "true",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  }
+  },
+  "Programateur thermostat": {
+    "composantAbylName": "Thermostat d'ambiance",
+    "Materiaux": {
+      "capture": "false",
+      "indiceMatrice": "",
+      "indiceAbyl": "",
+      "defaultValue": ""
+    },
+    "Marque": {
+      "capture": "true",
+      "indiceMatrice": "",
+      "indiceAbyl": "",
+      "defaultValue": ""
+    },
+    "Puissance": {
+      "capture": "false",
+      "indiceMatrice": "",
+      "indiceAbyl": "",
+      "defaultValue": ""
+    },
+    "Capacite - Dimensions": {
+      "capture": "false",
+      "indiceMatrice": "",
+      "indiceAbyl": "",
+      "defaultValue": ""
+    },
+    "Installateur": {
+      "capture": "false",
+      "indiceMatrice": "",
+      "indiceAbyl": "",
+      "defaultValue": ""
+    },
+    "Mise en service": {
+      "capture": "true",
+      "indiceMatrice": "",
+      "indiceAbyl": "",
+      "defaultValue": "[Date de livraison de l'immeuble]"
+    },
+    "Observations": {
+      "capture": "true",
+      "indiceMatrice": "",
+      "indiceAbyl": "",
+      "defaultValue": ""
+    }
+  },
+  "Radiateur": {
+    "composantAbylName": "Radiateur",
+    "Materiaux": {
+      "capture": "true",
+      "indiceMatrice": "",
+      "indiceAbyl": "",
+      "defaultValue": ""
+    },
+    "Marque": {
+      "capture": "false",
+      "indiceMatrice": "",
+      "indiceAbyl": "",
+      "defaultValue": ""
+    },
+    "Puissance": {
+      "capture": "true",
+      "indiceMatrice": "",
+      "indiceAbyl": "",
+      "defaultValue": ""
+    },
+    "Capacite - Dimensions": {
+      "capture": "false",
+      "indiceMatrice": "",
+      "indiceAbyl": "",
+      "defaultValue": ""
+    },
+    "Installateur": {
+      "capture": "false",
+      "indiceMatrice": "",
+      "indiceAbyl": "",
+      "defaultValue": ""
+    },
+    "Mise en service": {
+      "capture": "true",
+      "indiceMatrice": "",
+      "indiceAbyl": "",
+      "defaultValue": "[Date de livraison de l'immeuble]"
+    },
+    "Observations": {
+      "capture": "false",
+      "indiceMatrice": "",
+      "indiceAbyl": "",
+      "defaultValue": ""
+    }
+  },
+  "Robinet": {
+    "composantAbylName": "Robinetterie",
+    "Materiaux": {
+      "capture": "false",
+      "indiceMatrice": "",
+      "indiceAbyl": "",
+      "defaultValue": ""
+    },
+    "Marque": {
+      "capture": "false",
+      "indiceMatrice": "",
+      "indiceAbyl": "",
+      "defaultValue": ""
+    },
+    "Puissance": {
+      "capture": "false",
+      "indiceMatrice": "",
+      "indiceAbyl": "",
+      "defaultValue": ""
+    },
+    "Capacite - Dimensions": {
+      "capture": "false",
+      "indiceMatrice": "",
+      "indiceAbyl": "",
+      "defaultValue": ""
+    },
+    "Installateur": {
+      "capture": "false",
+      "indiceMatrice": "",
+      "indiceAbyl": "",
+      "defaultValue": ""
+    },
+    "Mise en service": {
+      "capture": "true",
+      "indiceMatrice": "",
+      "indiceAbyl": "",
+      "defaultValue": "[Date de livraison de l'immeuble]"
+    },
+
+    "Observations": {
+      "capture": "true",
+      "indiceMatrice": "",
+      "indiceAbyl": "",
+      "defaultValue": ""
+    }
+  },
+  "Robinet douche": {
+    "composantAbylName": "Robinetterie",
+    "Materiaux": {
+		"capture": "false",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  },
+	  "Marque": {
+		"capture": "false",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  },
+	  "Puissance": {
+		"capture": "false",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  },
+	  "Capacite - Dimensions": {
+		"capture": "false",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  },
+	  "Installateur": {
+		"capture": "false",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  },
+	  "Mise en service": {
+		"capture": "true",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": "[Date de livraison de l'immeuble]"
+	  },
+  
+	  "Observations": {
+		"capture": "true",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  }
+  },
+  "Robinet thermostatique": {
+    "composantAbylName": "Robinetterie",
+    "Materiaux": {
+		"capture": "false",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  },
+	  "Marque": {
+		"capture": "false",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  },
+	  "Puissance": {
+		"capture": "false",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  },
+	  "Capacite - Dimensions": {
+		"capture": "false",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  },
+	  "Installateur": {
+		"capture": "false",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  },
+	  "Mise en service": {
+		"capture": "true",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": "[Date de livraison de l'immeuble]"
+	  },  
+	  "Observations": {
+		"capture": "true",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  }
+  },
+  "Robinetterie sanitaire": {
+    "composantAbylName": "Robinetterie",
+    "Materiaux": {
+		"capture": "false",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  },
+	  "Marque": {
+		"capture": "false",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  },
+	  "Puissance": {
+		"capture": "false",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  },
+	  "Capacite - Dimensions": {
+		"capture": "false",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  },
+	  "Installateur": {
+		"capture": "false",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  },
+	  "Mise en service": {
+		"capture": "true",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": "[Date de livraison de l'immeuble]"
+	  },
+  
+	  "Observations": {
+		"capture": "true",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  }
+  },
+  "Tableau electrique logement": {
+    "composantAbylName": "Tableau électrique",
+    "Materiaux": {
+		"capture": "false",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  },
+	  "Marque": {
+		"capture": "false",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  },
+	  "Puissance": {
+		"capture": "false",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  },
+	  "Capacite - Dimensions": {
+		"capture": "false",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  },
+	  "Installateur": {
+		"capture": "false",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  },
+	  "Mise en service": {
+		"capture": "true",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": "[Date de livraison de l'immeuble]"
+	  },
+  
+	  "Observations": {
+		"capture": "true",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  }
+  },
+  "Visiophone/interphone logement": {
+    "composantAbylName": "Interphone",
+    "Materiaux": {
+		"capture": "false",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  },
+	  "Marque": {
+		"capture": "false",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  },
+	  "Puissance": {
+		"capture": "false",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  },
+	  "Capacite - Dimensions": {
+		"capture": "false",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  },
+	  "Installateur": {
+		"capture": "false",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  },
+	  "Mise en service": {
+		"capture": "true",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": "[Date de livraison de l'immeuble]"
+	  },
+  
+	  "Observations": {
+		"capture": "true",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  }
+  },
+  "WC standard": {
+    "composantAbylName": "Cuvette wc",
+    "Materiaux": {
+		"capture": "false",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  },
+	  "Marque": {
+		"capture": "false",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  },
+	  "Puissance": {
+		"capture": "false",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  },
+	  "Capacite - Dimensions": {
+		"capture": "false",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  },
+	  "Installateur": {
+		"capture": "false",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  },
+	  "Mise en service": {
+		"capture": "true",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": "[Date de livraison de l'immeuble]"
+	  },
+  
+	  "Observations": {
+		"capture": "true",
+		"indiceMatrice": "",
+		"indiceAbyl": "",
+		"defaultValue": ""
+	  }
+  }
+}

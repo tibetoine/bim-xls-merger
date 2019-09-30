@@ -39,15 +39,18 @@ workbookMatrice.xlsx.readFile('./resources/matrice.xlsx')
                   console.error("Pas de composant Abyl correspondant à " + composantMatrice + " voir la ligne dans fichier matrice: " + rowNumber)
                   isContinue = true
               }
-              console.log("Ligne %s : Code logement %s, piece Matrice : %s , pièce Abyl : %s || Composant matrice : %s , composant Abyl : %s ", rowNumber, codeLogement, pieceMatrice, pieceAbylArray, composantMatrice, composantAbyl)
+              
               if (!isContinue) {
                 // Ici je fais la recherche des données dans Abyl.
                 var worksheetAbyl = workbookAbyl.getWorksheet('A');
                 worksheetAbyl.eachRow(function (rowAbyl, rowNumberAbyl) {
                   if (rowAbyl.getCell(3).value === codeLogement) {                    
-                    console.log(pieceAbylArray.includes(rowAbyl.getCell(5).value))
-                    if (pieceAbylArray.includes(rowAbyl.getCell(5).value) && rowAbyl.getCell(7).value) {
-                      console.log("Yata ! ")
+                    
+                    if (pieceAbylArray.includes(rowAbyl.getCell(15).value) && rowAbyl.getCell(17).value === composantAbyl) {
+                      console.log("Ligne %s : Code logement %s, piece Matrice : %s , pièce Abyl : %s || Composant matrice : %s , composant Abyl : %s ", rowNumber, codeLogement, pieceMatrice, pieceAbylArray, composantMatrice, composantAbyl)
+                      // Je récupère les valeurs qui m'intéresse dans le fichier excel Abyl
+
+                      // J'écris les valeurs d'Abyl dans la matrice (Function)
                     }
                   }
                 })
